@@ -1,0 +1,4 @@
+repository "FinalProject@Zoloman@cloud"
+  path "/"
+    br "/main"
+    co "/main"
